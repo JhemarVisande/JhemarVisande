@@ -2,19 +2,19 @@
 
 I am a 4th-year IT student. I chose this course because it is practical, and having knowledge in technology provides many opportunities for finding work in the future. https://github.com/JhemarVisande
 
-About Me
+About Me:
 I love learning new things, both in life and in technology.
 I feel satisfied whenever I solve a coding problem.
 I am a sporty type of guy.
 
-Tech Stack
+Tech Stack:
 HTML, CSS, JavaScript
 Python
 MongoDB
 
-Currently Exploring 
+Currently Exploring:
 I am currently self-studying through SoloLearn, W3Schools, and other online resources.
 
-Achievement
+Achievement:
 I’m currently working on my part of our API final project.
 
