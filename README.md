@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jhemar! 👋
 
-<!--
-**JhemarVisande/JhemarVisande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 4th-year IT student. I chose this course because it is practical, and having knowledge in technology provides many opportunities for finding work in the future. https://github.com/JhemarVisande
 
-Here are some ideas to get you started:
+About Me
+I love learning new things, both in life and in technology.
+I feel satisfied whenever I solve a coding problem.
+I am a sporty type of guy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+HTML, CSS, JavaScript
+Python
+MongoDB
+
+Currently Exploring 
+I am currently self-studying through SoloLearn, W3Schools, and other online resources.
+
+Achievement
+I’m currently working on my part of our API final project.
+
