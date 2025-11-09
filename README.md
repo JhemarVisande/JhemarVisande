@@ -18,3 +18,4 @@ I am currently self-studying through SoloLearn, W3Schools, and other online reso
 Achievement:
 I’m currently working on my part of our API final project.
 
+Fun Fact: I love solving coding problems and playing basketball.
